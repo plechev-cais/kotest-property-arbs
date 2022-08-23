@@ -28,7 +28,6 @@ val colours = listOf(
   "olive",
   "turquoise",
   "teal",
-  "navy blue",
   "indigo",
   "violet",
 )
